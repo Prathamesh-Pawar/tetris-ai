@@ -37,4 +37,9 @@ DQN Heuristic
 ![](demo.gif)
 
 
+## Contibutors
 
+- Prathamesh Pawar
+- Ansh Mehta
+- Anusha Srinivasan
+- Shivan Shah
